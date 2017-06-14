@@ -1,0 +1,3 @@
+.cache/
+__pycache__/ # There are two '_' in the beggining and at the end of this name
+*.pyc
